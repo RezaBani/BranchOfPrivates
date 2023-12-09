@@ -1,7 +1,11 @@
 Branch of Privates v1.0 Build Date: 1402/04/29
+
 Qt v5.15.2 (MSVC 2019 or MinGW 32-bit | 64-bit) https://www.qt.io
+
 QXlsx v1.4.5 https://github.com/QtExcel/QXlsx
+
 xlnt v1.5.0 https://github.com/tfussell/xlnt
+
 Vazirmatn v33.003 (R.I.P Dear Saber) https://github.com/rastikerdar/vazirmatn
 
 مجوزهای برنامه:
